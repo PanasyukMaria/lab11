@@ -1,4 +1,4 @@
-//Copyright by Enigma
+//Copyright by PanasyukMaria
 
 #include <boost/process/child.hpp>
 #include <builder.hpp>
